@@ -1,26 +1,26 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-05-16 17:27:02.173999200 UTC
+// 2026-05-24 08:44:32.541374 UTC
 
 namespace CS2Dumper.Offsets {
     // Module: client.dll
     public static class ClientDll {
-        public const nint dwCSGOInput = 0x2343E70;
-        public const nint dwEntityList = 0x24D4E80;
-        public const nint dwGameEntitySystem = 0x24D4E80;
+        public const nint dwCSGOInput = 0x2353190;
+        public const nint dwEntityList = 0x24E44E0;
+        public const nint dwGameEntitySystem = 0x24E44E0;
         public const nint dwGameEntitySystem_highestEntityIndex = 0x2090;
-        public const nint dwGameRules = 0x19F2C08;
-        public const nint dwGlobalVars = 0x204F600;
-        public const nint dwGlowManager = 0x232BDF0;
-        public const nint dwLocalPlayerController = 0x230E5C0;
-        public const nint dwLocalPlayerPawn = 0x205A700;
-        public const nint dwPlantedC4 = 0x233D168;
-        public const nint dwPrediction = 0x205A610;
-        public const nint dwSensitivity = 0x232C908;
+        public const nint dwGameRules = 0x1A00BB0;
+        public const nint dwGlobalVars = 0x205E6D0;
+        public const nint dwGlowManager = 0x233B050;
+        public const nint dwLocalPlayerController = 0x231D830;
+        public const nint dwLocalPlayerPawn = 0x2069800;
+        public const nint dwPlantedC4 = 0x234CF08;
+        public const nint dwPrediction = 0x2069710;
+        public const nint dwSensitivity = 0x233BB68;
         public const nint dwSensitivity_sensitivity = 0x58;
-        public const nint dwViewAngles = 0x23444F8;
-        public const nint dwViewMatrix = 0x2334850;
-        public const nint dwViewRender = 0x23348D8;
-        public const nint dwWeaponC4 = 0x22ACD38;
+        public const nint dwViewAngles = 0x2353818;
+        public const nint dwViewMatrix = 0x2343AB0;
+        public const nint dwViewRender = 0x2343E58;
+        public const nint dwWeaponC4 = 0x22BBE30;
     }
     // Module: engine2.dll
     public static class Engine2Dll {
